@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tetris_raylib_test_game/tetris_raylib_test_game.vcxproj" Id="0a67f588-3709-4405-bf63-c6dc2170950d" />
+</Solution>
